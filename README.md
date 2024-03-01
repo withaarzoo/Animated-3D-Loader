@@ -1,6 +1,6 @@
 # Animated 3D Loader
 
-This repository contains code for an animated 3D loader created using HTML and CSS. The loader consists of a series of dots arranged in a circular pattern, with accompanying text indicating loading activity. The animation creates a visually appealing effect suitable for various web applications.
+This repository contains code for an animated 3D loader created using HTML and CSS. The loader consists of a series of dots arranged in a circular pattern, with accompanying text indicating loading activity. The animation creates a visually appealing effect suitable for various web applications .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-3D-Loader/assets/59678435/32aea20d-5861-4792-9ee5-fa1eb98e1630)
